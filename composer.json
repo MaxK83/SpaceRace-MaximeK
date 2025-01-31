@@ -1,0 +1,12 @@
+{
+	"name": "starrace/autoloader",
+	"description": "This is an example composer.json file and autoload",
+	"version": "1.0.1", 
+	"require": {
+	},
+	"autoload": {
+	"psr-4": {
+	"App\\": "src/"
+	}
+	}
+	}
