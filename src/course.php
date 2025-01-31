@@ -62,8 +62,5 @@
 		}
 
 	}
-	
-	//$course = new Course();
-	//$course->afficherParticipants();
 
 ?>
